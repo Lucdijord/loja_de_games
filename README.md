@@ -1,0 +1,1 @@
+Projeto final desenvolvido para a disciplina de Desenvolvimento de Software Java & Orientação a Objetos. O sistema simula o backend de um e-commerce de jogos e consoles, aplicando regras de negócio progressivas e controle rigoroso de estoque. Não utiliza banco de dados, a persistência é feita em txt.
